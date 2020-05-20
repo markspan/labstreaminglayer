@@ -107,6 +107,7 @@ The following stimulus presentations systems are usable out of the box with LSL:
   * `Neurobehavioral Systems Presentation <https://www.neurobs.com/>`__
   * `iMotions <https://www.imotions.com/>`__
   * Psychopy (using LSL for Python)
+  * OpenSesame (using LSL for MATLAB)
   * PsychToolbox (using LSL for MATLAB)
   * Unity (using LSL for C#)
   * `Simulation and Neuroscience Application Platform (SNAP) <https://github.com/sccn/SNAP>`__
